@@ -1,0 +1,3 @@
+Name  :Penke Kundana
+Course:Bsc Data Science
+About GitHub:GitHub is a online platform to develop a app ,and we can send our URL to your friend and they can watch the project what we done
